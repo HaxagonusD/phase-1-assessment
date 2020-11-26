@@ -116,6 +116,7 @@ var flipBool = function (arr) {
         return !currentBool;
     });
 };
+console.log(flipBool([true, false, false, true,]));
 //Bonus:
 //FEAST OR FAMINE
 //  - Write a method that takes two arguments: an animal and a food, which are lowercase and have at least two letters each

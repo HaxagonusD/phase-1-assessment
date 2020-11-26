@@ -127,6 +127,7 @@ const flipBool = (arr: boolean[]) => {
     return !currentBool;
   });
 };
+console.log(flipBool([true, false, false, true,]))
 
 //Bonus:
 //FEAST OR FAMINE
